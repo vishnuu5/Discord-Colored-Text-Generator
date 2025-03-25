@@ -2,7 +2,7 @@
 
 A modern, user-friendly tool for creating colorful text for your Discord messages using Markdown syntax.
 
-![Discord Colored Text Generator](https://i.imgur.com/example.png)
+!
 
 ## Features
 
@@ -41,7 +41,7 @@ Discord allows you to create colored text using code block syntax with specific 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-colored-text-generator.git
+   git clone https://github.com/vishnuu5/Discord-Colored-Text-Generator
    cd discord-colored-text-generator
    ```
 
